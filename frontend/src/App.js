@@ -1,11 +1,13 @@
 
 import './App.css';
-import Search from './search/Search.component';
+import Accordion from './InterviewComponent/accordian';
+
+
 
 function App() {
   return (
     <div className="App">
-        <Search  />
+        <Accordion  />
     </div>
   );
 }

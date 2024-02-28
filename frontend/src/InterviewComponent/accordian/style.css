@@ -1,0 +1,12 @@
+.accordian button {
+    margin-left: 225px;
+    margin-bottom: 15px;
+    background-color: chocolate;
+    padding: 8px 10px;
+    border-radius: 15px;
+    color:antiquewhite;
+    font-size: 18px;
+}
+.wrapper {
+    margin-top: 10px;
+}
