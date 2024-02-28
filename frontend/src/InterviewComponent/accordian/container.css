@@ -24,9 +24,13 @@
   justify-content: space-between;
 }
 
-.subInfo button {
+.subInfo span {
   background-color: chocolate;
   border: none;
   color: antiquewhite;
   font-size: 24px;
+}
+
+.subInfo:hover {
+  cursor: pointer;
 }
