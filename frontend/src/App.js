@@ -1,13 +1,12 @@
-
 import './App.css';
-import Accordion from './InterviewComponent/accordian';
+import RandomColor from './InterviewComponent/randomColor';
 
 
 
 function App() {
   return (
     <div className="App">
-        <Accordion  />
+        <RandomColor  />
     </div>
   );
 }
